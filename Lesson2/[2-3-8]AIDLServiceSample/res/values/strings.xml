@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_start_service">AIDLサービスを開始</string>
+    <string name="bt_stop_service">AIDLサービスを停止</string>
+    <string name="bt_control_service">doSometingメソッドの実行</string>
+
+</resources>

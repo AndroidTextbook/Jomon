@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiActivitySample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="next_button">ActivityB起動</string>
+    <string name="next_button_with_data">ActivityB起動(data添付)</string>
+    <string name="next_button_for_result">ActivityB起動(Bからデータを受け取る)</string>
+    <string name="back_button_for_result">ActivityAへ結果を通知する</string>
+
+</resources>

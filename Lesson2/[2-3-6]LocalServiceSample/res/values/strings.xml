@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocalServiceSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_start_service">サービスを開始</string>
+    <string name="bt_service_method">サービスのメソッドを呼び出す</string>
+    <string name="bt_stop_service">サービスと切断</string>
+
+</resources>

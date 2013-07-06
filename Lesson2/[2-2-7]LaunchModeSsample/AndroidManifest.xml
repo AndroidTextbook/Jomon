@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.android.textbook.lesson2.launchmodesample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="org.android.textbook.lesson2.launchmodesample.ActivityA"
+            android:label="@string/title_activity_a" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.android.textbook.lesson2.launchmodesample.ActivityB"
+            android:label="@string/title_activity_b"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity
+            android:name="org.android.textbook.lesson2.launchmodesample.ActivityC"
+            android:label="@string/title_activity_c"
+            android:launchMode="singleTask"
+            android:taskAffinity="org.android.textbook.lesson2.launchmodesample.activitytasksample2" >
+        </activity>
+    </application>
+
+</manifest>

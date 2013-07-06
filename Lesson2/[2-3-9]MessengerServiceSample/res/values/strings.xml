@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MessengerServiceSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_bind_service">MessengerServiceと接続</string>
+    <string name="bt_message">メッセージを送信</string>
+    <string name="bt_unbind_service">MessengerServiceと切断</string>
+
+</resources>

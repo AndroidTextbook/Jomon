@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaBroadcastSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_scanfile_api">APIを使ったコンテントプロバイダー登録</string>
+    <string name="bt_scanfile_broadcast">ブロードキャストを使ったコンテントプロバイダー登録</string>
+    <string name="bt_search_data">コンテントプロバイダーの情報取得</string>
+
+</resources>
