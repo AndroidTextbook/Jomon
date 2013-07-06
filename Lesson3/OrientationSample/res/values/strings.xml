@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OrientationSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="button_name1">Button 1</string>
+    <string name="button_name2">Button 2</string>
+    <string name="button_name3">Button 3</string>
+
+</resources>

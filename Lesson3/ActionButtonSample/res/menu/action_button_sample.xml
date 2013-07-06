@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/action_btn_add"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/action_btn_edit"
+        android:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/menu_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/action_btn_delete"
+        android:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/menu_camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/action_btn_camera"
+        android:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/action_btn_share"
+        android:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/menu_setting"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/action_btn_setting"
+        android:showAsAction="never" />
+
+</menu>

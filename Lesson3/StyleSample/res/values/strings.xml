@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StyleSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="human_a_text1">こんにちわ！</string>
+    <string name="human_a_text2">はじめまして。</string>
+    <string name="human_a_text3">あなたのお名前を教えてください。</string>
+    <string name="human_a_text4">ありがとう！</string>
+    <string name="human_a_text5">さようなら ^^</string>
+
+    <string name="human_b_text1">こんにちわ〜</string>
+    <string name="human_b_text2">どうも、はじめまして。</string>
+    <string name="human_b_text3">わたしの名前は藤田竜史です。</string>
+    <string name="human_b_text4">どういたしまして</string>
+    <string name="human_b_text5">バーイ ^^</string>
+
+</resources>

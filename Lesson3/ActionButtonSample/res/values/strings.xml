@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionButtonSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_btn_add">追加</string>
+    <string name="action_btn_edit">編集</string>
+    <string name="action_btn_delete">削除</string>
+    <string name="action_btn_camera">カメラ</string>
+    <string name="action_btn_share">共有</string>
+    <string name="action_btn_setting">設定</string>
+
+</resources>

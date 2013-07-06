@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutSupportSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="nexus4">このデバイスは、Nexus 4です</string>
+    <string name="nexus10">このデバイスは、Nexus 10です</string>
+
+</resources>
