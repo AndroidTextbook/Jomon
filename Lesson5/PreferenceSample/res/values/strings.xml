@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PreferenceSample</string>
+    <string name="action_getpreference">getPreferenceを用いる例へ移動する</string>
+    <string name="action_getsharedpreference">getSharedPreferenceを用いる例へ移動する</string>
+    <string name="title_activity_preference">PreferenceActivity</string>
+
+</resources>
