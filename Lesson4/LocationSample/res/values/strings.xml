@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">LocationSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="label1">PROVIDER:</string>
+    <string name="label2">Latitude:</string>
+    <string name="label3">Longitude:</string>
+    <string name="label4">Altitude:</string>
+    <string name="label5">Accuracy:</string>
+    <string name="label6">Speed:</string>
+    <string name="label7">Time:</string>
+    <string name="label8">Bearing:</string>
+</resources>

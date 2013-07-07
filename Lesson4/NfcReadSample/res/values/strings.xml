@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NfcReadSample</string>
+    <string name="nfc_message">Not match tech.</string>
+    <string name="foreground_label1">Read NDEF NFC TAG</string>
+    <string name="foreground_label2">Foreground Dispatch:</string>
+    <string name="foreground_label3">URL from NFC Tag</string>
+
+</resources>

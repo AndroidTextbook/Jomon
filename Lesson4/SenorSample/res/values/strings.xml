@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SenorSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="label1">Orientation</string>
+    <string name="label2">Azimuth:</string>
+    <string name="label3">Pitch:</string>
+    <string name="label4">Roll:</string>
+</resources>
