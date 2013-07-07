@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearnJUnit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="btn_pushMe">Push me!</string>
+    <string name="btn_goToNextButton">Go to next</string>
+
+    <string name="label_view1">View1</string>
+    <string name="label_view2">View2</string>
+
+    <string name="label_bottom">This is bottomView</string>
+    
+</resources>
