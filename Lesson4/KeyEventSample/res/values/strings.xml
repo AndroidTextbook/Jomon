@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyEventSample</string>
+    <string name="message">Please press key</string>
+    <string name="button_label">Button</string>
+
+</resources>

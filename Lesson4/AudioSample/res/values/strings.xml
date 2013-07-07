@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioSample</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
